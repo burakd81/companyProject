@@ -1,5 +1,3 @@
-## companyProject
-
 ## Proje Yapısı
 
 Proje, MVC (Model-View-Controller) tasarım deseni üzerine kuruludur. Aşağıda, proje yapısının ana bileşenleri mevcut:
